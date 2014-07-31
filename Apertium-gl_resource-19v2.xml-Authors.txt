@@ -1,0 +1,18 @@
+Copying and Author information
+
+Resource name: Galician LMF Apertium Dictionary
+Resource identifier: http://hdl.handle.net/10230/17091
+Licence: GPL
+
+Authors:
+
+() Prompsit Language Engineering, S.L
+
+() Universidade de Vigo. Seminario de Lingüística Informática
+
+() Universitat d'Alacant. Grup Transducens
+
+() Universitat Politècnica de Catalunya. TALP Research Center
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
